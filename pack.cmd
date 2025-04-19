@@ -18,8 +18,8 @@ del /q /s "output"
 "7z2409-extra\7za.exe" rn -sccUTF-8 -scsUTF-8 -tzip -y "output\tchinese.zip" "pack-tchinese.mcmeta" "pack.mcmeta"
 "7z2409-extra\7za.exe" rn -sccUTF-8 -scsUTF-8 -tzip -y "output\tchinese.zip" "pack-tchinese.png" "pack.png"
 
-rename "output\all.zip" "BFMod CNTR Project.zip"
-rename "output\schinese.zip" "《方块前线》中文翻译项目.zip"
-rename "output\tchinese.zip" "《方塊前線》中文翻譯專案.zip"
+rename "output\all.zip" "BFMod-CNTR-Project-All.zip"
+rename "output\schinese.zip" "BFMod-CNTR-Project-SC.zip"
+rename "output\tchinese.zip" "BFMod-CNTR-Project-TC.zip"
 
 exit
