@@ -1,0 +1,17 @@
+assets\bf_block\lang\en_us.json
+assets\bf_block\lang\zh_cn.json
+assets\bf_entity\lang\en_us.json
+assets\bf_entity\lang\zh_cn.json
+assets\bf_item\lang\en_us.json
+assets\bf_item\lang\zh_cn.json
+assets\bf_main\lang\en_us.json
+assets\bf_main\lang\zh_cn.json
+assets\bf_watermark\lang\en_us.json
+assets\bf_watermark\lang\zh_cn.json
+assets\bf\font\bold-schinese.json
+assets\bf\font\hyliliangheij.ttf
+assets\minecraft\font\default.json
+assets\minecraft\lang\zh_cn.json
+LICENSE
+pack-schinese.mcmeta
+pack-schinese.png

@@ -1,0 +1,26 @@
+name: "🐞 反饋"
+description: "繁體中文 Issue 模板"
+labels: [ "反馈 | Feedback" ]
+body:
+    - type: textarea
+      id: contents
+      attributes:
+          label: "📄 內容"
+          placeholder: "請描述你在使用本專案時遇到的問題或填寫對本專案的建議。"
+      validations:
+          required: true
+    - type: textarea
+      id: resources
+      attributes:
+          label: "📁 外部資源（可選）"
+          placeholder: "可提供相關參考檔案或連結。"
+    - type: checkboxes
+      id: checks
+      attributes:
+          label: "🔍 檢查"
+          description: "在建立 Issue 之前，請你確保："
+          options:
+              - label: "使用最新版本的資源包。"
+                required: true
+              - label: "所提交 Issue 未重複。"
+                required: true

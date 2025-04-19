@@ -1,0 +1,10 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\u2005": 2
+            }
+        }
+    ]
+}

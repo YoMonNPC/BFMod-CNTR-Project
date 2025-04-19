@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+    - name: "《方块前线》官方 Discord 服务器"
+      url: https://discord.blockfrontmc.com
+      about: "模组自身问题请前往官方 Discord 服务器反馈。"
+    - name: "《方塊前線》官方 Discord 伺服器"
+      url: https://discord.blockfrontmc.com
+      about: "模組自身問題請前往官方 Discord 伺服器反饋。"
+    - name: "BlockFront Official Discord Server"
+      url: https://discord.blockfrontmc.com
+      about: "For problems with the mod itself, please go to the official Discord server."

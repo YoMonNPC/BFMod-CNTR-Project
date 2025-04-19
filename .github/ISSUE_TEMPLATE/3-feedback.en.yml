@@ -1,0 +1,26 @@
+name: "🐞 Feedback"
+description: "English Issue Template"
+labels: [ "反馈 | Feedback" ]
+body:
+    - type: textarea
+      id: contents
+      attributes:
+          label: "📄 Contents"
+          placeholder: "Please describe any problems you have had with this project or fill in any suggestions for this project."
+      validations:
+          required: true
+    - type: textarea
+      id: resources
+      attributes:
+          label: "📁 Resources (Optional)"
+          placeholder: "Relevant references or links can be provided."
+    - type: checkboxes
+      id: checks
+      attributes:
+          label: "🔍 Checks"
+          description: "Before you create an issue, make sure you are:"
+          options:
+              - label: "Using the latest version of the resource pack."
+                required: true
+              - label: "Not duplicating the issue you are submitting."
+                required: true

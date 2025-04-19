@@ -1,0 +1,26 @@
+name: "🐞 反馈"
+description: "简体中文议题模板"
+labels: [ "反馈 | Feedback" ]
+body:
+    - type: textarea
+      id: contents
+      attributes:
+          label: "📄 内容"
+          placeholder: "请描述你在使用本项目时遇到的问题或填写对本项目的建议。"
+      validations:
+          required: true
+    - type: textarea
+      id: resources
+      attributes:
+          label: "📁 外部资源（可选）"
+          placeholder: "可提供相关参考文件或链接。"
+    - type: checkboxes
+      id: checks
+      attributes:
+          label: "🔍 检查"
+          description: "在创建议题之前，请你确保："
+          options:
+              - label: "使用最新版本的资源包。"
+                required: true
+              - label: "所提交议题未重复。"
+                required: true
