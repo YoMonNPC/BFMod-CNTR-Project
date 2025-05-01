@@ -1,0 +1,162 @@
+[
+  {
+    "uuid": "b8a1b294-3a53-4f78-98ee-2b75e6e41f44",
+    "name": "LeScooter",
+    "translation": "bf.screen.credits.role.dev.lead.founder"
+  },
+  {
+    "uuid": "bdc49c8d-3ea4-4bec-a67f-ad91b7d0ff28",
+    "name": "Blackfur",
+    "translation": "bf.screen.credits.role.dev"
+  },
+  {
+    "uuid": "7c86a219-cdab-49a9-bd44-e34279bd590b",
+    "name": "RyanHCode",
+    "translation": "bf.screen.credits.role.dev"
+  },
+  {
+    "uuid": "fbcf9922-df24-49bb-8f0f-d2ec6f5a3232",
+    "name": "Gecko, AzureDoom & Friends",
+    "translation": "bf.screen.credits.role.dev.geckolib"
+  },
+  {
+    "uuid": "fa73fb5a-c052-462c-b14a-dd869a52020e",
+    "name": "Fox1MX",
+    "translation": "bf.screen.credits.role.artist.skins"
+  },
+  {
+    "uuid": "e1f3848d-316e-47e7-9bab-e255b2f6d508",
+    "name": "MykeiBoi",
+    "translation": "bf.screen.credits.role.artist.skins"
+  },
+  {
+    "uuid": "ce255f78-a88b-4250-ad83-152ac1a68347",
+    "name": "JacksonPlayz",
+    "translation": "bf.screen.credits.role.artist.graphics"
+  },
+  {
+    "uuid": "1ad7dd37-8e98-4564-84e1-74fe4af864d8",
+    "name": "J0nks",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "fd03ba5d-b238-4cb1-ac24-b468e4aaf4a7",
+    "name": "TechnoTheKing",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "8e7101e3-6a28-45b9-8d72-dcbed8c947d9",
+    "name": "PhilGotPlayed",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "b2eb4e23-4a78-4b73-adf3-06509e5d437a",
+    "name": "JusticeCashMC",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "0cb50033-85aa-41bd-9330-6abe480731bd",
+    "name": "NightlyGaming",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "fa823574-c52e-484e-96f4-c0cd6b807a55",
+    "name": "ShrubNub",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "5696acc4-007f-461d-b8ef-76d7d33efdac",
+    "name": "QuantumNuke75",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "65d9c19a-5c1b-444e-8e2a-26aa79f67929",
+    "name": "Bilbond_",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "f94f4122-fb04-47d1-a625-84ffe8e6e3cd",
+    "name": "John4Plays",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "6aa14487-7b38-4f3c-8f8d-a48fe99f6fbd",
+    "name": "Virtuall_Gamer",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "a9be269d-5b26-4092-974b-7adf84a36d64",
+    "name": "VGAlbert",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "2d15af0e-6cee-4179-92a6-434bafb671ea",
+    "name": "MCsunnil",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "13c30947-6bf7-46f1-9f4b-363ed9804c1e",
+    "name": "BirdzRulrz",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "0fb8cfb3-f2ef-4d44-8f9c-8ce0b394bb5d",
+    "name": "LivingEar386514",
+    "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
+    "uuid": "3a29240a-3fae-460c-8323-ab3de0425a3f",
+    "name": "Thlrd_",
+    "translation": "bf.screen.credits.role.map.designer.modeler.textures"
+  },
+  {
+    "uuid": "666b071c-8a4b-4693-bfaa-8866a104c020",
+    "name": "Artemisia_",
+    "translation": "bf.screen.credits.role.modeler"
+  },
+  {
+    "uuid": "c093b78c-5fe0-44a8-818f-f396841a15be",
+    "name": "Polish_Pelican",
+    "translation": "bf.screen.credits.role.modeler"
+  },
+  {
+    "uuid": "6fe814fa-9a6a-436d-8099-6c390116a67e",
+    "name": "Th3Fr3ak",
+    "translation": "bf.screen.credits.role.modeler"
+  },
+  {
+    "uuid": "1d428b63-6771-4bff-9e4b-0741cb0a46a8",
+    "name": "D3athClawPL",
+    "translation": "bf.screen.credits.role.modeler"
+  },
+  {
+    "uuid": "b3df01a2-3921-4ad6-8cd4-2b4ba1cdd5d9",
+    "name": "War_Monger",
+    "translation": "bf.screen.credits.role.modeler"
+  },
+  {
+    "uuid": "0aa56534-bc24-4f65-950b-d542a4d7d7ed",
+    "name": "geeman100",
+    "translation": "bf.screen.credits.role.modeler"
+  },
+  {
+    "uuid": "3915cacb-d45e-4338-b766-30f9aa77a064",
+    "name": "Not_A_Whale",
+    "translation": "bf.screen.credits.role.modeler"
+  },
+  {
+    "uuid": "8667ba71-b85a-4004-af54-457a9734eed7",
+    "name": "TheBoneHeadClan",
+    "translation": "bf.screen.credits.role.voice"
+  },
+  {
+    "uuid": "b103e3c3-e90f-44f8-84ca-1d87b76985b8",
+    "name": "F3RULLO14",
+    "translation": "bf.screen.credits.role.special.thanks"
+  },
+  {
+    "uuid": "82b0fde1-c091-4370-bc6a-6623eab9b17d",
+    "name": "YoMonNPC",
+    "translation": "bf.screen.credits.role.cntr.project.producer"
+  }
+]

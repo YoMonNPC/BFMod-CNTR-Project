@@ -2,7 +2,9 @@
 *.bak
 changelog-template-edit.html
 changelog-template.html
+credits-old.json
 new.json
 old.json
-output
+outputs
 pack-with-version-number.cmd
+splashes.txt
