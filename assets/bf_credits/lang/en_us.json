@@ -1,6 +1,7 @@
 {
     "bf.screen.credits.role.artist.graphics": "Graphics Artist",
     "bf.screen.credits.role.artist.skins": "Skin Artist",
+    "bf.screen.credits.role.cntr.project.producer": "Chinese Translation Project Producer",
     "bf.screen.credits.role.dev.geckolib": "GeckoLib Developer",
     "bf.screen.credits.role.dev.lead.founder": "Lead Developer & Founder",
     "bf.screen.credits.role.dev": "Dev Help & Support",
@@ -10,6 +11,5 @@
     "bf.screen.credits.role.modeler": "Model Designer",
     "bf.screen.credits.role.music.composition": "Music Composition",
     "bf.screen.credits.role.special.thanks": "Special Thanks & Admiration",
-    "bf.screen.credits.role.voice": "Voice Acting",
-    "bf.screen.credits.role.cntr.project.producer": "Chinese Translations Project Producer"
+    "bf.screen.credits.role.voice": "Voice Acting"
 }

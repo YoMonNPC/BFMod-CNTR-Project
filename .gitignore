@@ -2,9 +2,11 @@
 *.bak
 changelog-template-edit.html
 changelog-template.html
+credits-new.json
 credits-old.json
 new.json
 old.json
 outputs
 pack-with-version-number.cmd
-splashes.txt
+splashes-new.txt
+splashes-old.txt

@@ -1,6 +1,7 @@
 {
     "bf.screen.credits.role.artist.graphics": "圖形美術",
     "bf.screen.credits.role.artist.skins": "外觀設計",
+    "bf.screen.credits.role.cntr.project.producer": "中文翻譯項目製作",
     "bf.screen.credits.role.dev.geckolib": "GeckoLib 開發者",
     "bf.screen.credits.role.dev.lead.founder": "首席開發者兼創始人",
     "bf.screen.credits.role.dev": "開發支援",
@@ -10,6 +11,5 @@
     "bf.screen.credits.role.modeler": "模型設計",
     "bf.screen.credits.role.music.composition": "音樂創作",
     "bf.screen.credits.role.special.thanks": "特別鳴謝",
-    "bf.screen.credits.role.voice": "配音",
-    "bf.screen.credits.role.cntr.project.producer": "中文翻譯項目製作"
+    "bf.screen.credits.role.voice": "配音"
 }
