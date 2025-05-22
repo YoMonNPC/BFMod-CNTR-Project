@@ -717,6 +717,8 @@
     "bf.message.game.match.summary.top.title": "排名前列的玩家",
     "bf.message.game.match.summary.vote.subtitle.tip": "點擊你接下來想要遊玩的戰場！",
     "bf.message.game.match.summary.vote.subtitle": "地圖投票",
+    "bf.message.game.match.summary.vote.title.gamemode.other": "其他遊戲模式",
+    "bf.message.game.match.summary.vote.title.gamemode.same": "相同遊戲模式",
     "bf.message.game.match.summary.vote.title": "地圖投票",
     "bf.message.game": "遊戲",
     "bf.message.gamemode.adrenalinesyringe.adrenalize": "%s 為你注射了腎上腺素！",

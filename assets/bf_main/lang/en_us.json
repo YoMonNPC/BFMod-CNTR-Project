@@ -717,6 +717,8 @@
     "bf.message.game.match.summary.top.title": "Top Players",
     "bf.message.game.match.summary.vote.subtitle.tip": "Click on the battlefield that you would like to play next!",
     "bf.message.game.match.summary.vote.subtitle": "Vote for a Map",
+    "bf.message.game.match.summary.vote.title.gamemode.other": "Other Gamemodes",
+    "bf.message.game.match.summary.vote.title.gamemode.same": "Same Gamemode",
     "bf.message.game.match.summary.vote.title": "Map Vote",
     "bf.message.game": "Game",
     "bf.message.gamemode.adrenalinesyringe.adrenalize": "You've been adrenalized by %s!",
