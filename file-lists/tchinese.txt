@@ -18,7 +18,7 @@ assets\bf_watermark\lang\zh_hk.json
 assets\bf_watermark\lang\zh_tw.json
 assets\bf\credits.json
 assets\bf\font\bold-tchinese.json
-assets\bf\font\fzzongyib.ttf
+assets\bf\font\mstiffheihk-ultrabold.ttf
 assets\bf\texts\splashes-tchinese.txt
 assets\minecraft\font\default.json
 assets\minecraft\lang\zh_hk.json

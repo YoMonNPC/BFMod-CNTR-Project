@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "bf:fzzongyib.ttf",
+            "file": "bf:mstiffheihk-ultrabold.ttf",
             "shift": [
                 -0.6,
                 0.5

@@ -1,7 +1,7 @@
 {
     "item.bf.acid_ball": "Acid Ball",
     "item.bf.adrenaline_syringe": "Syrette Adrenaline Syringe",
-    "item.bf.ammo_crate": "Ammo Crate",
+    "item.bf.ammo_box": "Ammo Box",
     "item.bf.binoculars": "Binoculars",
     "item.bf.bomb_defuse_kit": "Defuse Kit",
     "item.bf.bomb": "Bomb",
@@ -119,7 +119,7 @@
     "item.bf.gun_panzerbuchse39": "Panzerbüchse 39",
     "item.bf.gun_panzerfaust": "Panzerfaust",
     "item.bf.gun_panzerschreck": "Panzerschreck",
-    "item.bf.gun_piat": "PIAT Anti-tank",
+    "item.bf.gun_piat": "PIAT",
     "item.bf.gun_pistolet_automatique_modele_1935a": "Pistolet Auto Modele 1935A",
     "item.bf.gun_pps43": "PPS-43",
     "item.bf.gun_ppsh": "PPSH",
