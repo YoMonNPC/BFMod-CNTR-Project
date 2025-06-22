@@ -77,7 +77,7 @@
 [blockfront-official-discord]: https://discord.blockfrontmc.com
 [blockfront-official-rules]: https://www.blockfrontmc.com/rules
 [blockfront-official-website]: https://www.blockfrontmc.com
-[english]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/READMEs/README.en.mdMStiffHei HK
+[english]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/READMEs/README.en.md
 [hyliliangheij]: https://www.hanyi.com.cn/productdetail.php?id=589
 [project-all-in-one]: https://modrinth.com/resourcepack/bfmod-cntr-project-all-in-one
 [project-simplified-chinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
