@@ -27,9 +27,10 @@
 
 <div align="center">
 
-| | [多语言合一<br>All in One][project-all-in-one] | [简体中文<br>Simplified Chinese][project-simplified-chinese] | [繁體中文<br>Traditional Chinese][project-traditional-chinese] |
+| | [多语言合一][project-all-in-one] | [简体中文][project-simplified-chinese] | [繁體中文][project-traditional-chinese] |
 | :-: | :-: | :-: | :-: |
-| 自定义字体<br>Custom Font | ❌ | [汉仪力量黑简<br>HYLiLiangHei Simplified][hyliliangheij] | MStiffHei HK |
+| 自定义字体 | ❌ | [汉仪力量黑简][hyliliangheij] | MStiffHei HK |
+| 闪烁标语翻译 | ❌ | ✔️ | ✔️ |
 
 </div>
 

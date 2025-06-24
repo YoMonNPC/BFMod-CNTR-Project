@@ -29,6 +29,7 @@
 | | [多語言合一<br>All in One][project-all-in-one] | [简体中文<br>Simplified Chinese][project-simplified-chinese] | [繁體中文<br>Traditional Chinese][project-traditional-chinese] |
 | :-: | :-: | :-: | :-: |
 | 自訂字型<br>Custom Font | ❌ | [漢儀力量黑簡<br>HYLiLiangHei Simplified][hyliliangheij] | MStiffHei HK |
+| 閃爍標語翻譯<br>Splash Translation | ❌ | ✔️ | ✔️ |
 
 </div>
 
