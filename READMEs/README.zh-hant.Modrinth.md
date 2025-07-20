@@ -26,6 +26,8 @@
 
 ## 🛠️ 使用方法 · How to Use
 
+本專案釋出頁：<br>Releasing pages of this project:
+
 | | |
 | :- | :- |
 | Modrinth | [簡體中文][project-modrinth-schinese] \| [繁體中文][project-modrinth-tchinese] |

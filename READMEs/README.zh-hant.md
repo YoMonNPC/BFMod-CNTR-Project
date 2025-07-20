@@ -30,6 +30,8 @@
 
 ## 🛠️ 使用方法
 
+本專案釋出頁：
+
 | | |
 | :- | :- |
 | Modrinth | [簡體中文][project-modrinth-schinese] \| [繁體中文][project-modrinth-tchinese] |
