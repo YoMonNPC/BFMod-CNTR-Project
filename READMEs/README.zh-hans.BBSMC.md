@@ -58,9 +58,9 @@
 | 🧑‍💻 模组作者 | BeohMod |
 | 🌐 官方网站 | [www.BlockFrontMC.com][official-website] |
 | 💬 官方 Discord| [Discord.BlockFrontMC.com][official-discord] |
-| 📄 官方规则 | [原文（英语）][official-rules]\| [本项目 Wiki（中文翻译）][project-wiki] |
+| 📄 官方规则 | [原文][official-rules]\| [本项目 Wiki][project-wiki] |
 | 📄 模组发布页 | Modrinth：[模组][mod-modrinth] \| [整合包][modpack-modrinth]<br>CurseForge：[模组][mod-curseforge] |
-| 🌐 自定义比赛教程 | [原文（英语）][matchmaking-guide]\| [本项目 Wiki（中文翻译）][project-wiki] |
+| 🌐 自定义比赛教程 | [原文][matchmaking-guide]\| [本项目 Wiki][project-wiki] |
 
 [official-website]: https://www.blockfrontmc.com
 [official-discord]: https://discord.blockfrontmc.com
