@@ -7,10 +7,6 @@
 
 如果你在使用中遇到问题，请创建议题
 
-**简体中文** | [繁體中文][readme-tchinese]
-
-[readme-tchinese]: READMEs/README.zh-hant.md
-
 </div>
 
 <br>

@@ -3,65 +3,76 @@
 
 # 《方塊前線》中文翻譯專案<br>**B**lock**F**ront **Mod** **C**hi**n**ese **Tr**anslation **Project**
 
-為《Minecraft》模組《方塊前線》提供多語言支援
+為《Minecraft》模組《方塊前線》提供中文翻譯支援
 
-如果你在使用中遇到問題，請建立 Issue
+如果你在使用中遇到問題，請建立議題
 
-[简体中文][simplified-chinese] | [繁體中文][traditional-chinese] | [English][english]
+[簡體中文][readme-schinese] | **繁體中文**
+
+[readme-schinese]: READMEs/README.zh-hans.md
 
 </div>
 
 <br>
 
-## ⭐ 功能 · Features
+## ⭐ 專案功能
 
-- 為模組提供了：
-  - 帶自訂字型的簡體中文（中國大陸）翻譯 - **100%**
-  - 帶自訂字型的繁體中文（台灣）翻譯 - **100%**
-  - 帶自訂字型的繁體中文（香港特別行政區）翻譯 - **100%**
-- 修正了原文（美式英語）中的部分拼寫、語法。
+- 添加了：
+  - 帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。
+  - 帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（臺灣 / 香港特別行政區）翻譯。
+- 修正了原文中的部分拼寫、語法。
+- 格式化了遊戲內的中文。
+
+[hyliliangheij]: https://www.hanyi.com.cn/productdetail.php?id=589
+[mstiffhei-hk]: https://www.onlinewebfonts.com/download/
 
 <br>
 
-## 🛠️ 使用教程
+## 🛠️ 使用方法
 
-<div align="center">
+1. 下載資源包：
 
-| | [多語言合一[project-all-in-one] | [简体中文][project-simplified-chinese] | [繁體中文][project-traditional-chinese] |
-| :-: | :-: | :-: | :-: |
-| 自訂字型 | ❌ | [漢儀力量黑簡][hyliliangheij] | MStiffHei HK |
-| 閃爍標語翻譯 | ❌ | ✔️ | ✔️ |
+| | |
+| :- | :- |
+| Modrinth | [簡體中文][project-modrinth-schinese] \| [繁體中文][project-modrinth-tchinese] |
+| BBSMC | [簡體中文][project-bbsmc-schinese] |
+| GitHub | [簡體中文 & 繁體中文][project-github] |
 
-</div>
-
-1. 下載你所需要的版本的資源包。
 2. 將資源包放入遊戲資源包資料夾（resourcepacks）。
-3. 在遊戲中啟用資源包，並確保資源包處於模組資源（Mod Resources）上方。
+3. 在遊戲中啟用資源包，並確保資源包處於「模組資源」（Mod Resources）上方。
+
+[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese/versions
+[project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese/versions
+[project-bbsmc-schinese]: https://bbsmc.net/resourcepack/bfmod-cntr-project-schinese/versions
+[project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project/releases
+
+<br>
+
+## ⚠️ 注意事項
+
+- Windows 10 以下版本因無法載入模組內建庫檔案而無法遊玩此模組。暫無解決方法。
 
 <br>
 
 ## 🔗 相關連結
 
-- 🧑‍💻 模組開發 → BeohMod
+| | |
+| :- | :- |
+| 🧑‍💻 模組作者 | BeohMod |
+| 🌐 官方網站 | [www.BlockFrontMC.com][official-website] |
+| 💬 官方 Discord| [Discord.BlockFrontMC.com][official-discord] |
+| 📄 官方規則 | [原文（英語）][official-rules]\| [本專案 Wiki（中文翻譯）][project-wiki] |
+| 📄 模組釋出頁 | Modrinth：[模組][mod-modrinth] \| [整合包][modpack-modrinth]<br>CurseForge：[模組][mod-curseforge] |
+| 🌐 自訂比賽教學 | [原文（英語）][matchmaking-guide]\| [本專案 Wiki（中文翻譯）][project-wiki] |
 
-- 🌐 模組官網 → [www.BlockFrontMC.com][blockfront-official-website]
-
-- 💬 官方 Discord → [Discord.BlockFrontMC.com][blockfront-official-discord]
-
-- 📄 官方規則 → [本專案 Wiki][project-wiki] | [原文][blockfront-official-rules]
-
-- 📄 模組介紹 → [模組釋出頁](#-模組釋出頁)
-
-- 🌐 自訂比賽教程 → [本專案 Wiki][project-wiki] | [官方 Discord 原文][blockfront-matchmaking-guide]
-
-<br>
-
-## 🔗 模組釋出頁
-
-1. Modrinth → [僅模組][blockfront-mod-modrinth] | [模組包][blockfront-modpack-modrinth]
-2. CurseForge → [僅模組][blockfront-mod-curseforge] | [模組包][blockfront-modpack-curseforge]
-
-<br>
+[official-website]: https://www.blockfrontmc.com
+[official-discord]: https://discord.blockfrontmc.com
+[official-rules]: https://www.blockfrontmc.com/rules
+[project-wiki]: https://github.com/YoMonNPC/BFMod-CNTR-Project/wiki
+[mod-modrinth]: https://modrinth.com/mod/blockfront
+[modpack-modrinth]: https://modrinth.com/modpack/
+[mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/world-war-iimod-packcd565693a2b50b63076c42f932746214
+[matchmaking-guide]: https://discord.com/channels/899063859539759154/1090433325564432495/1090433325564432495
 
 ## 🤝 開源許可協議
 
@@ -70,20 +81,3 @@
 除非另有說明，本專案採用<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="知識共享署名—非商業性使用—相同方式共享 4.0 國際公共許可協議（Creative Commons Attribution 4.0 International Licence，CC BY-NC-SA 4.0）" width="88" height="31" /></a>
 
 </div>
-
-[blockfront-matchmaking-guide]: https://discord.com/channels/899063859539759154/1090433325564432495/1090433325564432495
-[blockfront-mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
-[blockfront-mod-modrinth]: https://modrinth.com/mod/blockfront
-[blockfront-modpack-curseforge]: https://www.curseforge.com/minecraft/modpacks/blockfront-world-war-ii
-[blockfront-modpack-modrinth]: https://modrinth.com/modpack/blockfront-mod-pack
-[blockfront-official-discord]: https://discord.blockfrontmc.com
-[blockfront-official-rules]: https://www.blockfrontmc.com/rules
-[blockfront-official-website]: https://www.blockfrontmc.com
-[english]: READMEs/README.en.md
-[hyliliangheij]: https://www.hanyi.com.cn/productdetail.php?id=589
-[project-all-in-one]: https://modrinth.com/resourcepack/bfmod-cntr-project-all-in-one
-[project-simplified-chinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
-[project-traditional-chinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-wiki]: https://github.com/YoMonNPC/BFMod-CNTR-Project/wiki
-[simplified-chinese]: READMEs/README.zh-hans.md
-[traditional-chinese]: READMEs/README.zh-hant.md
