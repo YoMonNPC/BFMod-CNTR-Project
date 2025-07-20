@@ -15,7 +15,7 @@
 
 - 添加了：<br>Added:
   - 帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。<br>Simplified Chinese (Chinese Mainland) translation with custom font.
-  - 帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（臺灣 / 香港特別行政區）翻譯。<br>Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font.
+  - 帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。<br>Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font.
 - 修正了原文中的部分拼寫、語法。<br>Fixed some spelling and grammar mistakes in the original text.
 - 格式化了遊戲內的中文。<br>Formatted the in-game Chinese.
 
