@@ -26,14 +26,13 @@
 
 ## 🛠️ 使用方法 · How to Use
 
-1. 下載資源包：<br>Download the resource pack:
-
 | | |
 | :- | :- |
 | Modrinth | [簡體中文][project-modrinth-schinese] \| [繁體中文][project-modrinth-tchinese] |
 | BBSMC | [簡體中文][project-bbsmc-schinese] |
 | GitHub | [簡體中文 & 繁體中文][project-github] |
 
+1. 下載資源包：<br>Download the resource pack:
 2. 將資源包放入遊戲資源包資料夾（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
 3. 在遊戲中啟用資源包，並確保資源包處於「模組資源」（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
 
