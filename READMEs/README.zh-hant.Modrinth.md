@@ -5,7 +5,7 @@
 
 為《Minecraft》模組《方塊前線》提供中文翻譯支援<br>Chinese translation support for Minecraft mod "BlockFront"
 
-如果你在使用中遇到問題，請建立議題<br>If you encounter problems during use, please create an issue
+如果你在使用中遇到問題，請建立 Issue<br>If you encounter problems during use, please create an issue
 
 </div>
 
