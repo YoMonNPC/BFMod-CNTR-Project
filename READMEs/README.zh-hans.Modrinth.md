@@ -36,7 +36,7 @@
 
 1. 下载资源包。<br>Download the resource pack.
 2. 将资源包放入游戏资源包文件夹（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
-3. 在游戏中启用资源包，并确保资源包处于“模组资源”（Mod Resources）上方。<br>Enable resource packs in the game and make sure the resource packs are above "Mod Resources".
+3. 在游戏中启用资源包，并确保资源包处于“模组资源”（Mod Resources）上方。<br>Enable resource pack in the game and make sure the resource pack is above "Mod Resources".
 
 [project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese/versions
 [project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese/versions
