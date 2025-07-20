@@ -1,6 +1,6 @@
 name: "🐞 Feedback"
 description: "English Issue Template"
-labels: [ "反馈 | Feedback" ]
+labels: [ "反馈 · Feedback" ]
 body:
     - type: textarea
       id: contents
