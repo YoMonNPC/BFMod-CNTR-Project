@@ -913,6 +913,7 @@
     "bf.message.gamemode.survivalgames.loot.refill": "All supply crates have been refilled!",
     "bf.message.gamemode.survivalgames.start": "Go! Go! Go!",
     "bf.message.gamemode.survivalgames.welcome": "Welcome to the Survival Games",
+    "bf.message.gamemode.suspicious.kick": "You have been kicked and marked for suspicious activity!",
     "bf.message.gamemode.switchteams.error.condition": "Unable to switch teams! (%s)",
     "bf.message.gamemode.switchteams.error.disabled": "Switching teams is currently disabled in this game-mode!",
     "bf.message.gamemode.switchteams.error.late": "Too late into match to switch teams!",

@@ -913,6 +913,7 @@
     "bf.message.gamemode.survivalgames.loot.refill": "所有补给箱都已完成补给！",
     "bf.message.gamemode.survivalgames.start": "冲！冲！冲！",
     "bf.message.gamemode.survivalgames.welcome": "欢迎来到生存竞赛",
+    "bf.message.gamemode.suspicious.kick": "你已被踢出并被标记为可疑行为！",
     "bf.message.gamemode.switchteams.error.condition": "未能切换队伍（%s）",
     "bf.message.gamemode.switchteams.error.disabled": "该游戏模式当前禁用队伍切换！",
     "bf.message.gamemode.switchteams.error.late": "比赛已至后期！",
