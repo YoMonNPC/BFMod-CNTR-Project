@@ -1014,6 +1014,8 @@
     "bf.message.intro.discord.title": "官方 Discord 伺服器",
     "bf.message.intro.online.connecting.tip": "正在嘗試與 %s 雲端網絡重新建立連接。",
     "bf.message.intro.online.connecting": "將於 %2$s 秒內重新連接至 %1$s 雲端",
+    "bf.message.intro.online.encrypting.tip": "正在嘗試安全加密你與雲端網絡的連接。",
+    "bf.message.intro.online.encrypting": "將於 %2$s 秒內加密與 %1$s 雲端的連接",
     "bf.message.intro.online.syncing.tip": "正在嘗試與雲端網絡進行玩家數據同步。",
     "bf.message.intro.online.syncing": "將於 %2$s 秒內將玩家數據同步至 %1$s 雲端",
     "bf.message.intro.online.verifying.tip": "正在嘗試與雲端網絡驗證你的 Minecraft 會話。",

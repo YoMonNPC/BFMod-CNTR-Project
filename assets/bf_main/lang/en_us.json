@@ -1014,6 +1014,8 @@
     "bf.message.intro.discord.title": "Official Discord Server",
     "bf.message.intro.online.connecting.tip": "Attempting to re-establish a connection to the %s cloud network.",
     "bf.message.intro.online.connecting": "Reconnecting to %s cloud in %s",
+    "bf.message.intro.online.encrypting.tip": "Attempting to securely encrypt your connection with the cloud network.",
+    "bf.message.intro.online.encrypting": "Encrypting connection to %s cloud in %s",
     "bf.message.intro.online.syncing.tip": "Attempting to sync your player data with the cloud network.",
     "bf.message.intro.online.syncing": "Syncing player data with %s cloud in %s",
     "bf.message.intro.online.verifying.tip": "Attempting to authenticate your Minecraft session with the cloud network.",

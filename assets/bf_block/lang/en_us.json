@@ -1,5 +1,4 @@
 {
-
     "block.bf.150mm_tbtsk_c36_gun": "150mm Tbtsk C36 Gun",
     "block.bf.7tp_pelican_destroyed": "7TP Pelican (Destroyed)",
     "block.bf.7tp_pelican": "7TP Pelican",
@@ -1518,6 +1517,7 @@
     "block.bf.renault_ahn_black": "Renault AHN (Black)",
     "block.bf.renault_ahn_blue": "Renault AHN (Blue)",
     "block.bf.renault_ahn": "Renault AHN",
+    "block.bf.renault_ft_tank": "Renault FT",
     "block.bf.renault_novaquatre": "Renault Novaquatre",
     "block.bf.rod_0": "Iron Rod",
     "block.bf.rod_1": "Iron Rod",
