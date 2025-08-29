@@ -51,7 +51,7 @@
 
 <br>
 
-## 🔗 相關連結 · Related Links
+## 🔗 相關資訊 · Related Infomations
 
 | | |
 | :- | :- |

@@ -52,7 +52,7 @@
 
 <br>
 
-## 🔗 相关链接 · Related Links
+## 🔗 相关信息 · Related Infomations
 
 | | |
 | :- | :- |
