@@ -38,10 +38,10 @@
 2. 将资源包放入游戏资源包文件夹（resourcepacks）。
 3. 在游戏中启用资源包，并确保资源包处于“模组资源”（Mod Resources）上方。
 
-[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese/versions
-[project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese/versions
-[project-bbsmc-schinese]: https://bbsmc.net/resourcepack/bfmod-cntr-project-schinese/versions
-[project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project/releases
+[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
+[project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
+[project-bbsmc-schinese]: https://bbsmc.net/resourcepack/bfmod-cntr-project-schinese
+[project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project
 
 <br>
 
