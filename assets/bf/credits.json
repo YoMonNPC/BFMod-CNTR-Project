@@ -50,6 +50,11 @@
     "translation": "bf.screen.credits.role.map.designer"
   },
   {
+	  "uuid": "6c951f80-b5a8-4da9-a905-3cd9af3c3f1b",
+	  "name": "M7_Nobody",
+	  "translation": "bf.screen.credits.role.map.designer"
+  },
+  {
     "uuid": "b2eb4e23-4a78-4b73-adf3-06509e5d437a",
     "name": "JusticeCashMC",
     "translation": "bf.screen.credits.role.map.designer"
