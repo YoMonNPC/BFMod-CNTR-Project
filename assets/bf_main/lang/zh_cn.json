@@ -178,7 +178,7 @@
     "bf.cloud.party.search.cancelled": "取消搜索（%s）",
     "bf.cloud.party.search.started": "正在加入匹配队列…",
     "bf.cloud.patreon.announcement": "%s 刚刚绑定了 Patreon 账户！感谢赞助我们！%s",
-    "bf.cloud.patreon.cooldown": "你必须稍等 %d 才能再次绑定 Patreon 账户。",
+    "bf.cloud.patreon.cooldown": "你必须等待 %d 分钟才能再次绑定 Patreon 账户。",
     "bf.cloud.patreon.more.info": "[更多信息]",
     "bf.cloud.popup.discord.button.tip": "加入 %s 的官方 Discord 服务器。",
     "bf.cloud.popup.discord.button": "加入 Discord",
