@@ -753,6 +753,7 @@
     "bf.message.equip": "Equip",
     "bf.message.equipped": "Equipped",
     "bf.message.error": "Error",
+    "bf.message.fabulous.graphics": "You cannot enable fabulous graphics while in a match!",
     "bf.message.friend.error.party.in": "You must leave your current party before joining!",
     "bf.message.friend.error.party.null": "This player isn't hosting/in a party!",
     "bf.message.game.match.summary.button.skip.tip": "Skip this summary section",

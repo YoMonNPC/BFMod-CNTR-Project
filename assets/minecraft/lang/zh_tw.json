@@ -5329,7 +5329,7 @@
     "options.glintSpeed": "附魔光效閃爍速度",
     "options.glintStrength.tooltip": "控制附魔物品的光效透明程度。",
     "options.glintStrength": "附魔光效閃爍強度",
-    "options.graphics.fabulous.tooltip": "%s 畫質使用畫面著色器來繪製透明方塊與 水後方的天氣、雲以及粒子。\n此選項可能會嚴重影響使用行動裝置或是 4K 解析度時的效能。",
+    "options.graphics.fabulous.tooltip": "%s 畫質使用畫面著色器來繪製透明方塊與水後方的天氣、雲以及粒子。\n此選項可能會嚴重影響使用行動裝置或是 4K 解析度時的效能。",
     "options.graphics.fabulous": "極致！",
     "options.graphics.fancy.tooltip": "精緻畫質在大部分裝置的效能與畫面品質間取得平衡。\n天氣、雲和粒子可能無法在透明方塊或水的後方出現。",
     "options.graphics.fancy": "精緻",
