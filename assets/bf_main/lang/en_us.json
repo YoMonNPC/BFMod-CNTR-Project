@@ -1676,6 +1676,7 @@
     "bf.tab.items": "%s Items",
     "bf.tab.planks": "%s Planks",
     "bf.tab.shutters": "%s Shutters",
+    "bf.tab.woodset": "%s Wood Blocks",
     "bf.textprompt.empty": "Input cannot be empty!",
     "bf.textprompt.error.alphanumeric": "Input must be alphanumeric!",
     "bf.textprompt.error.anything": "Input contains invalid characters!",

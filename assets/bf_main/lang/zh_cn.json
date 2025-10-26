@@ -1676,6 +1676,7 @@
     "bf.tab.items": "%s 物品",
     "bf.tab.planks": "%s 木条",
     "bf.tab.shutters": "%s 百叶窗",
+    "bf.tab.woodset": "%s 木头方块",
     "bf.textprompt.empty": "输入不能为空！",
     "bf.textprompt.error.alphanumeric": "输入只能为字母和数字！",
     "bf.textprompt.error.anything": "输入包含无效字符！",
