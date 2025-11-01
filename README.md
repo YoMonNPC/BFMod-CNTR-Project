@@ -44,7 +44,7 @@
 
 [project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
 [project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-bbsmc-schinese]: https://bbsmc.net/resourcepack/bfmod-cntr-project-schinese
+[project-bbsmc-schinese]: https://bbsmc.net/language/bfmod-cntr-project-schinese
 [project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project
 
 <br>

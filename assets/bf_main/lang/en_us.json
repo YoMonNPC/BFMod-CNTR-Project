@@ -78,6 +78,8 @@
     "bf.cloud.notification.discord.reminder.here": "here",
     "bf.cloud.notification.discord.reminder.hover": "Click 2 Join!",
     "bf.cloud.notification.discord.reminder": "Join %d other players on our official Discord server! Click %s to join now!",
+    "bf.cloud.notification.drop.fail.lobby": "Failed to drop item for %s due to skin limits! (Max: %d)",
+    "bf.cloud.notification.drop.fail.max": "You have reached the max skin limit of %d skins! You cannot obtain any more skins until you delete some.",
     "bf.cloud.notification.drop.mint": "Mint Value: %s",
     "bf.cloud.notification.drop": "%s obtained %s",
     "bf.cloud.notification.friends.add.accepted": "Request accepted! %s is now your friend!",
