@@ -598,7 +598,7 @@
     "bf.message.cloud.friend.newmessage": "来自 %s 的新消息",
     "bf.message.cloud.notification": "读取自云端网络的通知 %s",
     "bf.message.cloud.offline": "云端网络离线",
-    "bf.message.collection": "合集",
+    "bf.message.collection": "系列",
     "bf.message.comingsoon": "即将推出",
     "bf.message.command.assets.create.error.exists": "资源类型“%2$s”中已存在名为“%1$s”的资源！",
     "bf.message.command.assets.create.fail": "未能创建资源类型为“%2$s”的新资源“%1$s”！",
