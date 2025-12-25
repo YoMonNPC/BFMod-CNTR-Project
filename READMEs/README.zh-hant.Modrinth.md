@@ -47,7 +47,7 @@
 
 ## ⚠️ 注意事項 · Warnings
 
-- Windows 10 以下版本因無法載入模組內建庫檔案而無法遊玩此模組。暫無解決方法。<br>The following versions of Windows 10 cannot play this mod due to being unable to load the mod's built-in library files. There is currently no solution available.
+- **[已修復]** ~~Windows 10 以下版本因無法載入模組內建庫檔案而無法遊玩此模組。暫無解決方法。~~<br>**[Fixed]** ~~The following versions of Windows 10 cannot play this mod due to being unable to load the mod's built-in library files. There is currently no solution available.~~
 
 <br>
 

@@ -48,7 +48,7 @@
 ## ⚠️ 注意事项 · Warnings
 
 - PCL II 用户请更新至 2.9.2 及以上版本并在版本设置中禁用 Java Launch Wrapper，否则将无法通过模组反作弊检测。<br>PCL II users please update to version 2.9.2 or above and disable Java Launch Wrapper in the version settings, otherwise the package will fail the anti-cheat detection.
-- Windows 10 以下版本因无法加载模组自带库文件而无法游玩此模组。暂无解决方法。<br>The following versions of Windows 10 cannot play this mod due to being unable to load the mod's built-in library files. There is currently no solution available.
+- **[已修复]** ~~Windows 10 以下版本因无法加载模组自带库文件而无法游玩此模组。暂无解决方法。~~<br>**[Fixed]** ~~The following versions of Windows 10 cannot play this mod due to being unable to load the mod's built-in library files. There is currently no solution available.~~
 
 <br>
 
