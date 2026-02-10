@@ -162,6 +162,6 @@
   {
     "uuid": "82b0fde1-c091-4370-bc6a-6623eab9b17d",
     "name": "YoMonNPC",
-    "translation": "bf.screen.credits.role.cntr.project.producer"
+    "translation": "bf.screen.credits.role.cntr_project_producer"
   }
 ]
