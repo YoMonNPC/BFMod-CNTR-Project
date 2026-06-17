@@ -35,7 +35,6 @@
 | | |
 | :- | :- |
 | Modrinth | [简体中文][project-modrinth-schinese] \| [繁体中文][project-modrinth-tchinese] |
-| BBSMC | [简体中文][project-bbsmc-schinese] |
 | GitHub | [简体中文 & 繁体中文][project-github] |
 
 1. 下载资源包。
@@ -44,7 +43,6 @@
 
 [project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
 [project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-bbsmc-schinese]: https://bbsmc.net/language/bfmod-cntr-project-schinese
 [project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project
 
 <br>
@@ -52,7 +50,6 @@
 ## ⚠️ 注意事项
 
 - PCL II 用户请更新至 2.9.2 及以上版本并在版本设置中禁用 Java Launch Wrapper，否则将无法通过模组反作弊检测。
-- Windows 10 以下版本因无法加载模组自带库文件而无法游玩此模组。暂无解决方法。
 
 <br>
 

@@ -35,7 +35,6 @@
 | | |
 | :- | :- |
 | Modrinth | [簡體中文][project-modrinth-schinese] \| [繁體中文][project-modrinth-tchinese] |
-| BBSMC | [簡體中文][project-bbsmc-schinese] |
 | GitHub | [簡體中文 & 繁體中文][project-github] |
 
 1. 下載資源包。
@@ -44,14 +43,7 @@
 
 [project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
 [project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-bbsmc-schinese]: https://bbsmc.net/language/bfmod-cntr-project-schinese
 [project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project
-
-<br>
-
-## ⚠️ 注意事項
-
-- Windows 10 以下版本因無法載入模組內建庫檔案而無法遊玩此模組。暫無解決方法。
 
 <br>
 
