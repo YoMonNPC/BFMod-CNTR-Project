@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最終品質 | 71.0 ZH-HK",
+    "bf.message.gameplay": "非最終品質 | 72.0 ZH-HK",
 
     "#credits": "鳴謝",
     "bf.screen.credits.role.artist.graphics": "圖形美術",
@@ -647,6 +647,8 @@
     "bf.message.buy.stats.spread": "火勢蔓延：%s",
     "bf.message.buy.time": "購買時間：%s",
     "bf.message.cancel": "取消",
+    "bf.message.chat.disabled.visit": "訪問：",
+    "bf.message.chat.disabled": "由於你的 Microsoft 賬户私隱設定，聊天功能已被禁用。",
     "bf.message.chat.spam.caps": "請勿發送全大寫字符，感謝配合！",
     "bf.message.chat.spam.clone": "請勿頻繁 / 重複發送消息！（剩餘 %s 秒）",
     "bf.message.chat.spam.link": "請勿發送鏈接，感謝配合！",

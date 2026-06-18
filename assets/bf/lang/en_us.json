@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha",
     "bf.message.beta": "Beta",
     "bf.message.release": "Release",
-    "bf.message.gameplay": "Gameplay | 71.0 EN-US",
+    "bf.message.gameplay": "Gameplay | 72.0 EN-US",
 
     "#credits": "Credits",
     "bf.screen.credits.role.artist.graphics": "Graphics Artist",
@@ -647,6 +647,8 @@
     "bf.message.buy.stats.spread": "Spread Fired: %s",
     "bf.message.buy.time": "Buy Time: %s",
     "bf.message.cancel": "Cancel",
+    "bf.message.chat.disabled.visit": "Visit:",
+    "bf.message.chat.disabled": "Chat is disabled by your Microsoft account's privacy settings.",
     "bf.message.chat.spam.caps": "Please don't post in full-caps! Thanks!",
     "bf.message.chat.spam.clone": "Please don't post frequent/duplicate messages! (%s seconds remaining)",
     "bf.message.chat.spam.link": "Please don't post links! Thanks!",
