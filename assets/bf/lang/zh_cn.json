@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最终品质 | 74.0 ZH-CN",
+    "bf.message.gameplay": "非最终品质 | 74.1 ZH-CN",
 
     "#credits": "鸣谢",
     "bf.screen.credits.role.artist.graphics": "图形美术",
@@ -257,7 +257,7 @@
     "bf.container.profile.value.compxp": "竞技经验：",
     "bf.container.profile.value.emerald": "绿宝石：",
     "bf.container.profile.value.exp.progress": "经验进度：",
-    "bf.container.profile.value.exp.remaining": "仍需经验",
+    "bf.container.profile.value.exp.remaining": "仍需经验：",
     "bf.container.profile.value.exp.total": "总经验值：",
     "bf.container.profile.value.exp": "经验值：",
     "bf.container.profile.value.friendsonline": "在线好友：",

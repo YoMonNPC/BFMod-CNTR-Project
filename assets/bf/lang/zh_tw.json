@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最終品質 | 74.0 ZH-TW",
+    "bf.message.gameplay": "非最終品質 | 74.1 ZH-TW",
 
     "#credits": "鳴謝",
     "bf.screen.credits.role.artist.graphics": "圖形美術",
@@ -257,7 +257,7 @@
     "bf.container.profile.value.compxp": "競技經驗：",
     "bf.container.profile.value.emerald": "綠寶石：",
     "bf.container.profile.value.exp.progress": "經驗進度：",
-    "bf.container.profile.value.exp.remaining": "仍需經驗",
+    "bf.container.profile.value.exp.remaining": "仍需經驗：",
     "bf.container.profile.value.exp.total": "總經驗值：",
     "bf.container.profile.value.exp": "經驗值：",
     "bf.container.profile.value.friendsonline": "線上好友：",
