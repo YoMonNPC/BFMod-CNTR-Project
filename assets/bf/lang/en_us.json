@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha",
     "bf.message.beta": "Beta",
     "bf.message.release": "Release",
-    "bf.message.gameplay": "Gameplay | 80.0 EN-US",
+    "bf.message.gameplay": "Gameplay | 81.0 EN-US",
 
     "#credits": "Credits",
     "bf.screen.credits.role.artist.graphics": "Graphics Artist",
@@ -1000,8 +1000,10 @@
     "bf.message.gamemode.of.point.captured": "Point %s Captured!",
     "bf.message.gamemode.of.prepare.attack": "Prepare to begin the attack! %s",
     "bf.message.gamemode.of.prepare.defend": "Prepare to begin the defence! %s",
-    "bf.message.gamemode.of.rally.regroup": "Fall back to the regroup point to call reinforcements!",
-    "bf.message.gamemode.of.rally.reinforced": "Reinforcements have arrived!",
+    "bf.message.gamemode.of.rally.regroup.reinforcements": "Reinforcements",
+    "bf.message.gamemode.of.rally.regroup": "Get to the regroup point for %s!",
+    "bf.message.gamemode.of.rally.reinforced.reinforcements": "Reinforcements",
+    "bf.message.gamemode.of.rally.reinforced": "%s have arrived!",
     "bf.message.gamemode.of.regroup": "Regroup",
     "bf.message.gamemode.of.round.attack": "Round %s - Attack!",
     "bf.message.gamemode.of.round.defend": "Round %s - Defend!",
@@ -4731,6 +4733,7 @@
     "item.bf.gun_mp_3008": "MP 3008",
     "item.bf.gun_mp40": "MP-40",
     "item.bf.gun_mp41": "Schmeisser MP-41",
+    "item.bf.gun_nagant_m1895": "Nagant M1895",
     "item.bf.gun_panzerbuchse39": "Panzerbüchse 39",
     "item.bf.gun_panzerfaust": "Panzerfaust",
     "item.bf.gun_panzerschreck": "Panzerschreck",
@@ -4817,6 +4820,7 @@
     "item.bf.prestige_card_6": "6th Prestige Card",
     "item.bf.radio": "Command Radio",
     "item.bf.randomat": "Randomat",
+    "item.bf.region_wand": "Region Wand",
     "item.bf.selection_wand": "Selection Wand",
     "item.bf.super_happy_fun_bomb": "Super Happy Fun Bomb"
 }
