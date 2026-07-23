@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha",
     "bf.message.beta": "Beta",
     "bf.message.release": "Release",
-    "bf.message.gameplay": "Gameplay | 82.0 EN-US",
+    "bf.message.gameplay": "Gameplay | 83.0 EN-US",
 
     "#credits": "Credits",
     "bf.screen.credits.role.artist.graphics": "Graphics Artist",
@@ -810,6 +810,7 @@
     "bf.message.dead.countdown": "Redeploying in %s",
     "bf.message.dead.title": "Killed In Action",
     "bf.message.dead": "Dead",
+    "bf.message.debug.combo": "You cannot use debug shortcuts while in a match!",
     "bf.message.debug.hitbox": "You cannot enable hit-boxes while in a match!",
     "bf.message.debug.overlay": "You cannot enable debug overlay while in a match!",
     "bf.message.decline": "Decline",

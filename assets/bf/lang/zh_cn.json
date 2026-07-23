@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最终品质 | 82.0 ZH-CN",
+    "bf.message.gameplay": "非最终品质 | 83.0 ZH-CN",
 
     "#credits": "鸣谢",
     "bf.screen.credits.role.artist.graphics": "图形美术",
@@ -810,6 +810,7 @@
     "bf.message.dead.countdown": "%s 秒后重新部署",
     "bf.message.dead.title": "阵亡",
     "bf.message.dead": "死亡",
+    "bf.message.debug.combo": "你不能在对局中使用调试组合键！",
     "bf.message.debug.hitbox": "你不能在对局中启用判定箱显示！",
     "bf.message.debug.overlay": "你不能在对局中启用调试屏幕！",
     "bf.message.decline": "拒绝",

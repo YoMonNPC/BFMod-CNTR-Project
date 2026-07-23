@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最終品質 | 82.0 ZH-TW",
+    "bf.message.gameplay": "非最終品質 | 83.0 ZH-TW",
 
     "#credits": "鳴謝",
     "bf.screen.credits.role.artist.graphics": "圖形美術",
@@ -810,6 +810,7 @@
     "bf.message.dead.countdown": "%s 秒後重新部署",
     "bf.message.dead.title": "陣亡",
     "bf.message.dead": "死亡",
+    "bf.message.debug.combo": "你不能在對局中使用除錯組合鍵！",
     "bf.message.debug.hitbox": "你不能在對局中啟用判定箱顯示！",
     "bf.message.debug.overlay": "你不能在對局中啟用除錯畫面！",
     "bf.message.decline": "拒絕",
