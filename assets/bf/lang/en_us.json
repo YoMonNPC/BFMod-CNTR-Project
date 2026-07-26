@@ -1550,7 +1550,7 @@
     "bf.popup.message.kills.vehicle": "+%s Vehicle Kill(s)",
     "bf.popup.message.kills": "+%s Kill(s)",
     "bf.popup.message.killstreak": "%s Kill Streak!",
-    "bf.popup.message.longshot": "Long Distance Shot! %s",
+    "bf.popup.message.longshot": "%s Long Distance Shot! ",
     "bf.popup.message.medic.bag.player.healed": "Player Healed!",
     "bf.popup.message.noscope": "+%s No-scope(s)!",
     "bf.popup.message.revenge.by": "Revenge by %s!",

@@ -1550,7 +1550,7 @@
     "bf.popup.message.kills.vehicle": "+ %s 次载具摧毁",
     "bf.popup.message.kills": "+ %s 次击杀",
     "bf.popup.message.killstreak": "%s 连杀！",
-    "bf.popup.message.longshot": "超远距离击杀！%s",
+    "bf.popup.message.longshot": "%s 超远距离击杀！",
     "bf.popup.message.medic.bag.player.healed": "治疗玩家！",
     "bf.popup.message.noscope": "+ %s 次盲狙！",
     "bf.popup.message.revenge.by": "被 %s 复仇！",
