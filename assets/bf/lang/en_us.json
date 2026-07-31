@@ -1391,6 +1391,7 @@
     "bf.message.punishment.type.ban.cloud": "Cloud Ban",
     "bf.message.punishment.type.ban.comp": "Competitive Cooldown",
     "bf.message.punishment.type.ban.mm": "Match-making Ban",
+    "bf.message.punishment.type.comp.cooldown": "Competitive Cooldown",
     "bf.message.punishment.type.mute": "Muted",
     "bf.message.punishment.type.warn": "Warning",
     "bf.message.punishments": "Punishments",
