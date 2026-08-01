@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha",
     "bf.message.beta": "Beta",
     "bf.message.release": "Release",
-    "bf.message.gameplay": "Gameplay | 84.0 EN-US",
+    "bf.message.gameplay": "Gameplay | 85.0 EN-US",
 
     "#credits": "Credits",
     "bf.screen.credits.role.artist.graphics": "Graphics Artist",
@@ -663,6 +663,8 @@
     "bf.message.chat.spam.link": "Please don't post links! Thanks!",
     "bf.message.chat.spam.muted": "You're currently muted and cannot send messages!",
     "bf.message.chat.spam.profanity": "Your message was blocked and potentially reported for containing profanities!",
+    "bf.message.cinematic.skip.mouse": "Left-Click",
+    "bf.message.cinematic.skip": "%s to Skip Cinematic",
     "bf.message.clan.create": "Create Brigade",
     "bf.message.clan.delete": "Delete Brigade",
     "bf.message.clan.disbanded": "Your brigade, %s, has been disbanded by the owner, %s.",

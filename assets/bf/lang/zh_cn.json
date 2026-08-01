@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最终品质 | 84.0 ZH-CN",
+    "bf.message.gameplay": "非最终品质 | 85.0 ZH-CN",
 
     "#credits": "鸣谢",
     "bf.screen.credits.role.artist.graphics": "图形美术",
@@ -663,6 +663,8 @@
     "bf.message.chat.spam.link": "请勿发送链接，感谢配合！",
     "bf.message.chat.spam.muted": "你已被禁言，无法发送消息！",
     "bf.message.chat.spam.profanity": "你的消息已被屏蔽并可能被举报含有敏感内容！",
+    "bf.message.cinematic.skip.mouse": "左键点击",
+    "bf.message.cinematic.skip": "%s以跳过过场动画",
     "bf.message.clan.create": "创建旅队",
     "bf.message.clan.delete": "解散旅队",
     "bf.message.clan.disbanded": "你所在的旅队 %s 已被 %s 解散。",
@@ -4635,8 +4637,6 @@
     "entity.bf.willys_jeep_car": "威利吉普车",
 
     "#item": "物品",
-    "item.bf.gun_nagant_m1895": "纳甘 M1895 转轮手枪",
-    "item.bf.region_wand": "区域手杖",
     "item.bf.acid_ball": "酸液球",
     "item.bf.adrenaline_syringe": "肾上腺素注射器",
     "item.bf.ammo_box": "弹药盒",
@@ -4755,6 +4755,7 @@
     "item.bf.gun_mp_3008": "MP3008 冲锋枪",
     "item.bf.gun_mp40": "MP-40 冲锋枪",
     "item.bf.gun_mp41": "MP-41 冲锋枪",
+    "item.bf.gun_nagant_m1895": "纳甘 M1895 转轮手枪",
     "item.bf.gun_panzerbuchse39": "PzB39 反坦克步枪",
     "item.bf.gun_panzerfaust": "铁拳反坦克榴弹发射器",
     "item.bf.gun_panzerschreck": "坦克杀手",
@@ -4841,6 +4842,7 @@
     "item.bf.prestige_card_6": "七级声望卡片",
     "item.bf.radio": "指挥无线电",
     "item.bf.randomat": "随机事件",
+    "item.bf.region_wand": "区域手杖",
     "item.bf.selection_wand": "选择棒",
     "item.bf.super_happy_fun_bomb": "超级开心趣味炸弹"
 }

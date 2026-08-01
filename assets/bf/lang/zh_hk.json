@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最終品質 | 84.0 ZH-HK",
+    "bf.message.gameplay": "非最終品質 | 85.0 ZH-HK",
 
     "#credits": "鳴謝",
     "bf.screen.credits.role.artist.graphics": "圖形美術",
@@ -663,6 +663,8 @@
     "bf.message.chat.spam.link": "請勿發送鏈接，感謝配合！",
     "bf.message.chat.spam.muted": "你已被禁言，無法發送消息！",
     "bf.message.chat.spam.profanity": "你的消息已被屏蔽並可能被舉報含有敏感內容！",
+    "bf.message.cinematic.skip.mouse": "左鍵點擊",
+    "bf.message.cinematic.skip": "%s以跳過過場動畫",
     "bf.message.clan.create": "創建旅隊",
     "bf.message.clan.delete": "解散旅隊",
     "bf.message.clan.disbanded": "你所在的旅隊 %s 已被 %s 解散。",
@@ -4753,6 +4755,7 @@
     "item.bf.gun_mp_3008": "MP3008 衝鋒槍",
     "item.bf.gun_mp40": "MP-40 衝鋒槍",
     "item.bf.gun_mp41": "MP-41 衝鋒槍",
+    "item.bf.gun_nagant_m1895": "納甘 M1895 轉輪手槍",
     "item.bf.gun_panzerbuchse39": "PzB39 反坦克步槍",
     "item.bf.gun_panzerfaust": "鐵拳反坦克榴彈發射器",
     "item.bf.gun_panzerschreck": "坦克殺手",
@@ -4839,6 +4842,7 @@
     "item.bf.prestige_card_6": "七級聲望卡片",
     "item.bf.radio": "指揮無線電",
     "item.bf.randomat": "隨機事件",
+    "item.bf.region_wand": "區域手杖",
     "item.bf.selection_wand": "選擇棒",
     "item.bf.super_happy_fun_bomb": "超級開心趣味炸彈"
 }
