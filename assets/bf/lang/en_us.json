@@ -905,6 +905,7 @@
     "bf.message.gamemode.callout.yes.title": "Affirmative",
     "bf.message.gamemode.callout.yes": "Affirmative!",
     "bf.message.gamemode.callout": "Callout",
+    "bf.message.gamemode.capturepoint.blocking": "BLOCKING POINT %s",
     "bf.message.gamemode.capturepoint.capturing": "CAPTURING POINT %s",
     "bf.message.gamemode.capturepoint.defending": "DEFENDING POINT %s",
     "bf.message.gamemode.category.all.tip": "All game-modes.",
