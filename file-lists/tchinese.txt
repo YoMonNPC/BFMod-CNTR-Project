@@ -8,6 +8,8 @@ assets\bf\texts\splashes-tchinese.txt
 assets\minecraft\font\default.json
 assets\minecraft\lang\zh_hk.json
 assets\minecraft\lang\zh_tw.json
+assets\sodium\lang\zh_hk.json
+assets\sodium\lang\zh_tw.json
 LICENSE
 pack-tchinese.mcmeta
 pack-tchinese.png

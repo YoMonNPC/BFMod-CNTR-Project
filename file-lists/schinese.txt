@@ -6,6 +6,7 @@ assets\bf\font\hyliliangheij.ttf
 assets\bf\texts\splashes-schinese.txt
 assets\minecraft\font\default.json
 assets\minecraft\lang\zh_cn.json
+assets\sodium\lang\zh_cn.json
 LICENSE
 pack-schinese.mcmeta
 pack-schinese.png
