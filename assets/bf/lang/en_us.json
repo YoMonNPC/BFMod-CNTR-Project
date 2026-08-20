@@ -1,9 +1,9 @@
 {
     "#watermark": "Watermark",
-    "bf.message.gameplay": "Gameplay | 88.2 EN-US",
+    "bf.message.gameplay": "Gameplay | 89.0 EN-US",
 
     "#credits": "Credits",
-    "bf.screen.credits.role.cntr_project_producer": "Chinese Translation Project Producer",
+    "bf.screen.credits.role.dev.geckolib": "GeckoLib Developer",
 
     "#main": "Main",
     "bf.cloud.notification.clantag.edit.error.long": "Your brigade tag is too long! Please try again.",
