@@ -1799,6 +1799,7 @@
     "bf.settings.notifications.friend.rank.ups": "好友晋升",
     "bf.settings.notifications.friend.requests.desc": "显示待处理的好友请求通知。",
     "bf.settings.notifications.friend.requests": "好友请求",
+    "bf.settings.notifications.match.invites.desc": "显示对局邀请通知。",
     "bf.settings.notifications.match.invites": "对局邀请",
     "bf.settings.notifications.party.invites.desc": "显示队伍邀请通知。",
     "bf.settings.notifications.party.invites": "队伍邀请",
