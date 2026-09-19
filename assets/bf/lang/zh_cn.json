@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最终品质 | 92.1 ZH-CN",
+    "bf.message.gameplay": "非最终品质 | 92.2 ZH-CN",
 
     "#ui": "用户界面",
     "bf.challenge.kills.guntype": "使用%2$s达成 %1$s 次击杀（%3$s / %4$s）",
@@ -1712,7 +1712,7 @@
     "bf.settings.accessibility.flashbang.dark": "深色闪光弹效果",
     "bf.settings.audio.bots.desc": "播放 AI 玩家语音。",
     "bf.settings.audio.bots": "AI 玩家音效",
-    "bf.settings.audio.capture.point.alarm.desc": "占领据点时播放警报。",
+    "bf.settings.audio.capture.point.alarm.desc": "据点被占领时播放警报。",
     "bf.settings.audio.capture.point.alarm": "据点占领警报",
     "bf.settings.audio.capture.point.tick.desc": "据点被占领时播放倒计时音效。",
     "bf.settings.audio.capture.point.tick": "据点占领倒计时音效",
