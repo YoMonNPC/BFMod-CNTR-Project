@@ -23,7 +23,7 @@
     "bf.message.gamemode.radio.command.toteam": "Commander has placed a new %s marker!",
     "bf.message.gamemode.ttt.murderinfo.discovered": "%s has found the body of %s!",
     "bf.message.gamemode.unpaused": "Game has been unpaused by %s",
-    "bf.message.profile.base.discord.unlink.tip": "UnLink your Discord account!",
+    "bf.message.profile.base.discord.unlink.tip": "Unlink your Discord account!",
     "bf.message.profile.details.headshots": "Head-shots: %s",
     "bf.message.prompt.refer.player.title": "Refer a Player",
     "bf.message.punishment.type.comp.cooldown": "Competitive Cooldown",
