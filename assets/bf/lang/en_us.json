@@ -1,6 +1,6 @@
 {
     "#watermark": "Watermark",
-    "bf.message.gameplay": "Gameplay | 92.2 EN-US",
+    "bf.message.gameplay": "Gameplay | 93.0 EN-US",
 
     "#credits": "Credits",
     "bf.screen.credits.role.dev.geckolib": "GeckoLib Developer",
@@ -31,7 +31,6 @@
     "bf.message.tutorial.armory.3": "You can filter between item types by using the buttons provided on the right-hand side of the armory.",
     "bf.message.tutorial.classes.5": "You can switch between class levels by right-clicking the class.",
     "bf.popup.message.longshot": "%s Long Distance Shot! ",
-    "bf.settings.notifications.match.invites.desc": "Show match invite notifications.",
 
     "#block": "Block",
     "block.bf.wall_shop_sign_big_france_0": "French Big Wall Shop Sign",
