@@ -5154,7 +5154,7 @@
     "multiplayer.unsecureserver.toast": "该服务器上发送的消息可能会被修改，可能无法反映原始消息",
     "multiplayerWarning.check": "不再显示此屏幕",
     "multiplayerWarning.header": "警告：在线游戏由第三方提供",
-    "multiplayerWarning.message": "警告：在线游戏由第三方服务器提供，不由 Mojang Studios 或 Microsoft 拥有、运营和监督。 在线游戏的过程中，你可能会收到不受规制的聊天消息或者其他用户生成内容，而这些内容可能不适合所有人。",
+    "multiplayerWarning.message": "警告：在线游戏由第三方服务器提供，不由 Mojang Studios 或 Microsoft 拥有、运营和监督。在线游戏的过程中，你可能会收到不受规制的聊天消息或者其他用户生成内容，而这些内容可能不适合所有人。",
     "narration.button.usage.focused": "按下 Enter 键激活",
     "narration.button.usage.hovered": "单击鼠标左键激活",
     "narration.button": "按钮：%s",
