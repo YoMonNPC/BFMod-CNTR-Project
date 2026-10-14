@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最终品质 | 100.0 ZH-CN",
+    "bf.message.gameplay": "非最终品质 | 100.1 ZH-CN",
 
     "#ui": "用户界面",
     "bf.challenge.capture": "占领 1 个据点（%s / %s）",
@@ -1610,7 +1610,7 @@
     "bf.message.profile.details.kills.fire": "火焰击杀次数：%s",
     "bf.message.profile.details.kills.infected": "感染者击杀次数：%s",
     "bf.message.profile.details.kills.streak": "连续击杀纪录：%s",
-    "bf.message.profile.details.kills.vehicles": "载具摧毁数量：%s",
+    "bf.message.profile.details.kills.vehicles": "载具摧毁次数：%s",
     "bf.message.profile.details.kills": "击杀次数：%s",
     "bf.message.profile.details.league.message": "该玩家参与过官方联赛！",
     "bf.message.profile.details.noscopes": "盲狙次数：%s",
