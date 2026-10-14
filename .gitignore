@@ -5,9 +5,9 @@ changelog-template.html
 credits-new.json
 credits-old.json
 new.json
+new.txt
 old.json
+old.txt
 outputs
 pack-squash
 pack-with-version-number.cmd
-splashes-new.txt
-splashes-old.txt
