@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最終品質 | 101.0 ZH-TW",
+    "bf.message.gameplay": "非最終品質 | 102.0 ZH-TW",
 
     "#ui": "使用者介面",
     "bf.challenge.capture": "佔領 1 個據點（%s / %s）",
@@ -1190,6 +1190,7 @@
     "bf.message.gamemode.def.buy.error.limit": "你無法攜帶更多該物品。",
     "bf.message.gamemode.def.buy.error.money": "金錢不足。",
     "bf.message.gamemode.def.buy.error.owned": "你已擁有該物品。",
+    "bf.message.gamemode.def.buy.error.round": "你本回合購買該物品的次數已達上限。",
     "bf.message.gamemode.def.buy.error.time": "你現在無法購買。",
     "bf.message.gamemode.def.buy.error.zone": "返回出生點以購買。",
     "bf.message.gamemode.def.buy.owned": "已擁有",
