@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最終品質 | 104.3 ZH-TW",
+    "bf.message.gameplay": "非最終品質 | 105.0 ZH-TW",
 
     "#ui": "使用者介面",
     "bf.challenge.capture": "佔領 1 個據點（%s / %s）",
@@ -1654,6 +1654,9 @@
     "bf.message.profile.details.punishments": "處罰記錄：",
     "bf.message.profile.details.scoreboard.featured.message": "榮登官方排行榜！",
     "bf.message.profile.details.scoreboard.featured": "排行榜榮譽玩家！",
+    "bf.message.profile.details.skill.rank.hidden": "隱藏",
+    "bf.message.profile.details.skill.rank.unranked": "未定級",
+    "bf.message.profile.details.skill.rank": "技術段位：%s",
     "bf.message.profile.details.time": "遊戲時長：%s",
     "bf.message.profile.details.wins": "勝利場次：%s",
     "bf.message.profile.details": "個人資料詳細資訊",
