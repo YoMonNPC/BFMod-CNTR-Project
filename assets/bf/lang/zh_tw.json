@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "非最終品質 | 104.2 ZH-TW",
+    "bf.message.gameplay": "非最終品質 | 104.3 ZH-TW",
 
     "#ui": "使用者介面",
     "bf.challenge.capture": "佔領 1 個據點（%s / %s）",
@@ -1187,7 +1187,7 @@
     "bf.message.gamemode.class.sniper.title.short": "狙擊",
     "bf.message.gamemode.class.sniper.title": "狙擊兵",
     "bf.message.gamemode.class.specialist.desc": "擅長中距離戰鬥， 通常結合側翼進攻和戰術推進。",
-    "bf.message.gamemode.class.specialist.title.short": "專家",
+    "bf.message.gamemode.class.specialist.title.short": "精英",
     "bf.message.gamemode.class.specialist.title": "精英兵",
     "bf.message.gamemode.class.support.desc": "提供高機動火力支援， 維持持續壓制能力",
     "bf.message.gamemode.class.support.title.short": "支援",
