@@ -10,7 +10,7 @@
 **简体中文** | [繁體中文][project-modrinth-tchinese] | [GitHub][project-github-schinese]
 
 [project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-github-schinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project
+[project-github-schinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README.md
 
 
 </div>
