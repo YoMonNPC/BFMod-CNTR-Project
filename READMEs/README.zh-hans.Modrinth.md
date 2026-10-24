@@ -13,9 +13,9 @@
 
 ## ⭐ 项目功能 · Project Features
 
-- 添加了：<br>Added:
-  - 带自定义字体（[汉仪力量黑简][hyliliangheij]）的简体中文（中国大陆）翻译。<br>Simplified Chinese (Chinese Mainland) translation with custom font.
-  - 带自定义字体（[MStiffHei HK][mstiffhei-hk]）的繁体中文（台湾 / 香港特别行政区）翻译。<br>Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font.
+- 添加了带自定义字体（[汉仪力量黑简][hyliliangheij]）的简体中文（中国大陆）翻译。<br>Added Simplified Chinese (Chinese Mainland) translation with custom font.
+- 添加了带自定义字体（[MStiffHei HK][mstiffhei-hk]）的繁体中文（台湾 / 香港特别行政区）翻译。<br>Added Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font.
+- 添加了 Sodium 的中文翻译。<br>Added Chinese translations for Sodium mod.
 - 修正了原文中的部分拼写、语法。<br>Fixed some spelling and grammar mistakes in the original text.
 - 格式化了游戏内的中文。<br>Formatted the in-game Chinese.
 
@@ -65,9 +65,9 @@
 [official-rules]: https://www.blockfrontmc.com/rules
 [project-wiki]: https://github.com/YoMonNPC/BFMod-CNTR-Project/wiki
 [mod-modrinth]: https://modrinth.com/mod/blockfront
-[modpack-modrinth]: https://modrinth.com/modpack/
-[mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/world-war-iimod-packcd565693a2b50b63076c42f932746214
-[matchmaking-guide]: https://discord.com/channels/899063859539759154/1090433325564432495/1090433325564432495
+[modpack-modrinth]: https://modrinth.com/modpack/blockfront-mod-pack
+[mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
+[matchmaking-guide]: https://blockfront.wiki.gg/wiki/Map_creation
 
 ## 🤝 开源许可协议 · Licence
 
