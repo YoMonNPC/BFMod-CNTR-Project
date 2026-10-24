@@ -3,9 +3,14 @@
 
 # 《方塊前線》中文翻譯專案<br>**B**lock**F**ront **Mod** **C**hi**n**ese **Tr**anslation **Project**
 
-為《Minecraft》模組《方塊前線》提供中文翻譯支援<br>Chinese translation support for Minecraft mod "BlockFront"
+為 Minecraft 模組 BlockFront 提供中文翻譯支援<br>Chinese translation support for Minecraft mod "BlockFront"
 
 如果你在使用中遇到問題，請建立 Issue<br>If you encounter problems during use, please create an issue
+
+[簡體中文][project-modrinth-schinese] | **繁體中文** | [GitHub][project-github-tchinese]
+
+[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
+[project-github-tchinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/READMEs/README.zh-hant.Modrinth.md
 
 </div>
 
@@ -13,9 +18,9 @@
 
 ## ⭐ 專案功能·Project Features
 
-- 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。<br>Added Simplified Chinese (Chinese Mainland) translation with custom font.
-- 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。<br>Added Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font.
-- 添加了 Sodium 的中文翻譯。<br>Added Chinese translations for Sodium mod.
+- 為 BlockFront 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。<br>Added Simplified Chinese (Chinese Mainland) translation with custom font for BlockFront Mod.
+- 為 BlockFront 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。<br>Added Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font for BlockFront Mod.
+- 為 Sodium 添加了中文翻譯。<br>Added Chinese translations for Sodium mod.
 - 修正了原文中的部分拼寫、語法。<br>Fixed some spelling and grammar mistakes in the original text.
 - 格式化了遊戲內的中文。<br>Formatted the in-game Chinese.
 
@@ -26,20 +31,9 @@
 
 ## 🛠️ 使用方法·How to Use
 
-本專案釋出頁：<br>Releasing pages of this project:
-
-| | |
-| :- | :- |
-| Modrinth | [簡體中文][project-modrinth-schinese] \| [繁體中文][project-modrinth-tchinese] |
-| GitHub | [簡體中文 & 繁體中文][project-github] |
-
 1. 下載資源包：<br>Download the resource pack:
 2. 將資源包放入遊戲資源包資料夾（resourcepacks）。<br>Place the resource pack into the game resource pack folder (resourcepacks).
 3. 在遊戲中啟用資源包，並確保資源包處於「模組資源」（Mod Resources）上方。<br>Enable resource pack in the game and make sure the resource pack is above "Mod Resources".
-
-[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
-[project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project
 
 <br>
 
@@ -47,12 +41,12 @@
 
 | | |
 | :- | :- |
-| 🧑‍💻 模組作者·Mod author | BeohMod |
-| 🌐 官方網站·Official website | [www.BlockFrontMC.com][official-website] |
+| 🧑‍💻 模組作者·Mod Author | BeohMod |
+| 🌐 官方網站·Official Website | [www.BlockFrontMC.com][official-website] |
 | 💬 官方 Discord·Official Discord| [Discord.BlockFrontMC.com][official-discord] |
-| 📄 官方規則·Official rules | [原文·Original text][official-rules] \| [本專案 Wiki·Project's Wiki][project-wiki] |
-| 📄 模組釋出頁·Releasing pages | Modrinth：[模組·Mod][mod-modrinth] \| [整合包·Modpack][modpack-modrinth]<br>CurseForge：[模組·Mod][mod-curseforge] |
-| 🌐 自訂比賽教學·Custom matchmaking guide | [原文·Original text][matchmaking-guide] \| [本專案 Wiki·Project's Wiki][project-wiki] |
+| 📄 官方規則·Official Rules | [原文·Original Text][official-rules] \| [本專案 Wiki·Project's Wiki][project-wiki] |
+| 📄 模組釋出頁·Releasing Pages | Modrinth：[模組·Mod][mod-modrinth] \| [整合包·Modpack][modpack-modrinth]<br>CurseForge：[模組·Mod][mod-curseforge] |
+| 🌐 自訂比賽教學·Custom Matchmaking Guide | [原文·Original Text][matchmaking-guide] \| [本專案 Wiki·Project's Wiki][project-wiki] |
 
 [official-website]: https://www.blockfrontmc.com
 [official-discord]: https://discord.blockfrontmc.com

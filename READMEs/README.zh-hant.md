@@ -3,13 +3,14 @@
 
 # 《方塊前線》中文翻譯專案<br>**B**lock**F**ront **Mod** **C**hi**n**ese **Tr**anslation **Project**
 
-為《Minecraft》模組《方塊前線》提供中文翻譯支援
+為 Minecraft 模組 BlockFront 提供中文翻譯支援
 
 如果你在使用中遇到問題，請建立 Issue
 
-[簡體中文][readme-schinese] | **繁體中文**
+[簡體中文][readme-schinese] | **繁體中文** | [Modrinth][project-modrinth-tchinese]
 
 [readme-schinese]: READMEs/README.zh-hans.md
+[project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
 
 </div>
 
@@ -17,9 +18,9 @@
 
 ## ⭐ 專案功能
 
-- 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。
-- 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。
-- 添加了 Sodium 的中文翻譯。
+- 為 BlockFront 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。
+- 為 BlockFront 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。
+- 為 Sodium 添加了中文翻譯。
 - 修正了原文中的部分拼寫、語法。
 - 格式化了遊戲內的中文。
 
@@ -30,20 +31,9 @@
 
 ## 🛠️ 使用方法
 
-本專案釋出頁：
-
-| | |
-| :- | :- |
-| Modrinth | [簡體中文][project-modrinth-schinese] \| [繁體中文][project-modrinth-tchinese] |
-| GitHub | [簡體中文 & 繁體中文][project-github] |
-
 1. 下載資源包。
 2. 將資源包放入遊戲資源包資料夾（resourcepacks）。
 3. 在遊戲中啟用資源包，並確保資源包處於「模組資源」（Mod Resources）上方。
-
-[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
-[project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project
 
 <br>
 

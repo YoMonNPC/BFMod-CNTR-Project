@@ -3,13 +3,14 @@
 
 # 《方块前线》中文翻译项目<br>**B**lock**F**ront **Mod** **C**hi**n**ese **Tr**anslation **Project**
 
-为《Minecraft》模组《方块前线》提供中文翻译支持
+为 Minecraft 模组 BlockFront 提供中文翻译支持
 
 如果你在使用中遇到问题，请创建议题
 
-**简体中文** | [繁體中文][readme-tchinese]
+**简体中文** | [繁體中文][readme-tchinese] | [Modrinth][project-modrinth-schinese]
 
 [readme-tchinese]: READMEs/README.zh-hant.md
+[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
 
 </div>
 
@@ -30,20 +31,9 @@
 
 ## 🛠️ 使用方法
 
-本项目发布页：
-
-| | |
-| :- | :- |
-| Modrinth | [简体中文][project-modrinth-schinese] \| [繁体中文][project-modrinth-tchinese] |
-| GitHub | [简体中文 & 繁体中文][project-github] |
-
 1. 下载资源包。
 2. 将资源包放入游戏资源包文件夹（resourcepacks）。
 3. 在游戏中启用资源包，并确保资源包处于“模组资源”（Mod Resources）上方。
-
-[project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
-[project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
-[project-github]: https://github.com/YoMonNPC/BFMod-CNTR-Project
 
 <br>
 
