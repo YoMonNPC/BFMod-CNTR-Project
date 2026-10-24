@@ -7,10 +7,10 @@
 
 如果你在使用中遇到問題，請建立 Issue<br>If you encounter problems during use, please create an issue
 
-[簡體中文][project-modrinth-schinese] | **繁體中文** | [GitHub][project-github-tchinese]
+[简体中文][project-modrinth-schinese] | **繁體中文** | [GitHub][project-github-tchinese]
 
 [project-modrinth-schinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-schinese
-[project-github-tchinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/READMEs/README.zh-hant.Modrinth.md
+[project-github-tchinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/READMEs/README.zh-hant.md
 
 </div>
 

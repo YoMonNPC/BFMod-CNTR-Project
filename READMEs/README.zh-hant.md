@@ -7,7 +7,7 @@
 
 如果你在使用中遇到問題，請建立 Issue
 
-[簡體中文][readme-schinese] | **繁體中文** | [Modrinth][project-modrinth-tchinese]
+[简体中文][readme-schinese] | **繁體中文** | [Modrinth][project-modrinth-tchinese]
 
 [readme-schinese]: READMEs/README.zh-hans.md
 [project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
@@ -18,7 +18,7 @@
 
 ## ⭐ 專案功能
 
-- 為 BlockFront 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。
+- 為 BlockFront 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的简体中文（中國大陸）翻譯。
 - 為 BlockFront 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。
 - 為 Sodium 添加了中文翻譯。
 - 修正了原文中的部分拼寫、語法。
