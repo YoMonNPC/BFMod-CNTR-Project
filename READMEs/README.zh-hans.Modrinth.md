@@ -12,7 +12,6 @@
 [project-modrinth-tchinese]: https://modrinth.com/resourcepack/bfmod-cntr-project-tchinese
 [project-github-schinese]: https://github.com/YoMonNPC/BFMod-CNTR-Project/blob/main/README.md
 
-
 </div>
 
 <br>
