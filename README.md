@@ -18,9 +18,9 @@
 
 ## ⭐ 项目功能
 
-- 添加了带自定义字体（[汉仪力量黑简][hyliliangheij]）的简体中文（中国大陆）翻译。
-- 添加了带自定义字体（[MStiffHei HK][mstiffhei-hk]）的繁体中文（台湾 / 香港特别行政区）翻译。
-- 添加了 Sodium 的中文翻译。
+- 为 BlockFront 添加了带自定义字体（[汉仪力量黑简][hyliliangheij]）的简体中文（中国大陆）翻译。
+- 为 BlockFront 添加了带自定义字体（[MStiffHei HK][mstiffhei-hk]）的繁体中文（台湾 / 香港特别行政区）翻译。
+- 为 Sodium 添加了中文翻译。
 - 修正了原文中的部分拼写、语法。
 - 格式化了游戏内的中文。
 
