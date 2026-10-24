@@ -18,7 +18,6 @@
 
 ## ⭐ 專案功能·Project Features
 
-- 為 BlockFront 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。<br>Added Simplified Chinese (Chinese Mainland) translation with custom font for BlockFront Mod.
 - 為 BlockFront 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。<br>Added Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font for BlockFront Mod.
 - 為 Sodium 添加了中文翻譯。<br>Added Chinese translations for Sodium mod.
 - 修正了原文中的部分拼寫、語法。<br>Fixed some spelling and grammar mistakes in the original text.

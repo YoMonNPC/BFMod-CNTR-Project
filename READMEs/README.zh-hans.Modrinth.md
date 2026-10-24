@@ -20,8 +20,7 @@
 ## ⭐ 项目功能·Project Features
 
 - 为 BlockFront 添加了带自定义字体（[汉仪力量黑简][hyliliangheij]）的简体中文（中国大陆）翻译。<br>Added Simplified Chinese (Chinese Mainland) translation with custom font for BlockFront Mod.
-- 为 BlockFront 添加了带自定义字体（[MStiffHei HK][mstiffhei-hk]）的繁体中文（台湾 / 香港特别行政区）翻译。<br>Added Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font for BlockFront Mod.
-- 为 Sodium 添加了中文翻译。<br>Added Chinese translations for Sodium mod.
+- 为 Sodium 添加了中文翻译。<br>Added Chinese translation for Sodium mod.
 - 修正了原文中的部分拼写、语法。<br>Fixed some spelling and grammar mistakes in the original text.
 - 格式化了游戏内的中文。<br>Formatted the in-game Chinese.
 
