@@ -1,6 +1,6 @@
 name: "🐞 回饋"
 description: "繁體中文 Issue 模板"
-labels: [ "反馈 · Feedback" ]
+labels: [ "反馈·Feedback" ]
 body:
     - type: textarea
       id: contents

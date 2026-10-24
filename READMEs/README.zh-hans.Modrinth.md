@@ -11,7 +11,7 @@
 
 <br>
 
-## ⭐ 项目功能 · Project Features
+## ⭐ 项目功能·Project Features
 
 - 添加了带自定义字体（[汉仪力量黑简][hyliliangheij]）的简体中文（中国大陆）翻译。<br>Added Simplified Chinese (Chinese Mainland) translation with custom font.
 - 添加了带自定义字体（[MStiffHei HK][mstiffhei-hk]）的繁体中文（台湾 / 香港特别行政区）翻译。<br>Added Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font.
@@ -24,7 +24,7 @@
 
 <br>
 
-## 🛠️ 使用方法 · How to Use
+## 🛠️ 使用方法·How to Use
 
 本项目发布页：<br>Releasing pages of this project:
 
@@ -43,22 +43,22 @@
 
 <br>
 
-## ⚠️ 注意事项 · Warnings
+## ⚠️ 注意事项·Warnings
 
 - PCL II 用户请更新至 2.9.2 及以上版本并在版本设置中禁用 Java Launch Wrapper，否则将无法通过模组反作弊检测。<br>PCL II users please update to version 2.9.2 or above and disable Java Launch Wrapper in the version settings, otherwise the package will fail the anti-cheat detection.
 
 <br>
 
-## 🔗 相关信息 · Related Infomations
+## 🔗 相关信息·Related Infomations
 
 | | |
 | :- | :- |
-| 🧑‍💻 模组作者 · Mod author | BeohMod |
-| 🌐 官方网站 · Official website | [www.BlockFrontMC.com][official-website] |
-| 💬 官方 Discord · Official Discord| [Discord.BlockFrontMC.com][official-discord] |
-| 📄 官方规则 · Official rules | [原文 · Original text][official-rules] \| [本项目 Wiki · Project's Wiki][project-wiki] |
-| 📄 模组发布页 · Releasing pages | Modrinth：[模组 · Mod][mod-modrinth] \| [整合包 · Modpack][modpack-modrinth]<br>CurseForge：[模组 · Mod][mod-curseforge] |
-| 🌐 自定义比赛教程 · Custom matchmaking guide | [原文 · Original text][matchmaking-guide] \| [本项目 Wiki · Project's Wiki][project-wiki] |
+| 🧑‍💻 模组作者·Mod author | BeohMod |
+| 🌐 官方网站·Official website | [www.BlockFrontMC.com][official-website] |
+| 💬 官方 Discord·Official Discord| [Discord.BlockFrontMC.com][official-discord] |
+| 📄 官方规则·Official rules | [原文·Original text][official-rules] \| [本项目 Wiki·Project's Wiki][project-wiki] |
+| 📄 模组发布页·Releasing pages | Modrinth：[模组·Mod][mod-modrinth] \| [整合包·Modpack][modpack-modrinth]<br>CurseForge：[模组·Mod][mod-curseforge] |
+| 🌐 自定义比赛教程·Custom matchmaking guide | [原文·Original text][matchmaking-guide] \| [本项目 Wiki·Project's Wiki][project-wiki] |
 
 [official-website]: https://www.blockfrontmc.com
 [official-discord]: https://discord.blockfrontmc.com
@@ -69,7 +69,7 @@
 [mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
 [matchmaking-guide]: https://blockfront.wiki.gg/wiki/Map_creation
 
-## 🤝 开源许可协议 · Licence
+## 🤝 开源许可协议·Licence
 
 <div align="center">
 

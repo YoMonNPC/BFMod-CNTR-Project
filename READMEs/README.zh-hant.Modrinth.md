@@ -11,7 +11,7 @@
 
 <br>
 
-## ⭐ 專案功能 · Project Features
+## ⭐ 專案功能·Project Features
 
 - 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。<br>Added Simplified Chinese (Chinese Mainland) translation with custom font.
 - 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。<br>Added Traditional Chinese (Taiwan / Hong Kong SAR) translation with custom font.
@@ -24,7 +24,7 @@
 
 <br>
 
-## 🛠️ 使用方法 · How to Use
+## 🛠️ 使用方法·How to Use
 
 本專案釋出頁：<br>Releasing pages of this project:
 
@@ -43,16 +43,16 @@
 
 <br>
 
-## 🔗 相關資訊 · Related Infomations
+## 🔗 相關資訊·Related Infomations
 
 | | |
 | :- | :- |
-| 🧑‍💻 模組作者 · Mod author | BeohMod |
-| 🌐 官方網站 · Official website | [www.BlockFrontMC.com][official-website] |
-| 💬 官方 Discord · Official Discord| [Discord.BlockFrontMC.com][official-discord] |
-| 📄 官方規則 · Official rules | [原文 · Original text][official-rules] \| [本專案 Wiki · Project's Wiki][project-wiki] |
-| 📄 模組釋出頁 · Releasing pages | Modrinth：[模組 · Mod][mod-modrinth] \| [整合包 · Modpack][modpack-modrinth]<br>CurseForge：[模組 · Mod][mod-curseforge] |
-| 🌐 自訂比賽教學 · Custom matchmaking guide | [原文 · Original text][matchmaking-guide] \| [本專案 Wiki · Project's Wiki][project-wiki] |
+| 🧑‍💻 模組作者·Mod author | BeohMod |
+| 🌐 官方網站·Official website | [www.BlockFrontMC.com][official-website] |
+| 💬 官方 Discord·Official Discord| [Discord.BlockFrontMC.com][official-discord] |
+| 📄 官方規則·Official rules | [原文·Original text][official-rules] \| [本專案 Wiki·Project's Wiki][project-wiki] |
+| 📄 模組釋出頁·Releasing pages | Modrinth：[模組·Mod][mod-modrinth] \| [整合包·Modpack][modpack-modrinth]<br>CurseForge：[模組·Mod][mod-curseforge] |
+| 🌐 自訂比賽教學·Custom matchmaking guide | [原文·Original text][matchmaking-guide] \| [本專案 Wiki·Project's Wiki][project-wiki] |
 
 [official-website]: https://www.blockfrontmc.com
 [official-discord]: https://discord.blockfrontmc.com
@@ -63,7 +63,7 @@
 [mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
 [matchmaking-guide]: https://blockfront.wiki.gg/wiki/Map_creation
 
-## 🤝 開源許可協議 · Licence
+## 🤝 開源許可協議·Licence
 
 <div align="center">
 
