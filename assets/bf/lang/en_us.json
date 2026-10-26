@@ -1,6 +1,6 @@
 {
     "#watermark": "Watermark",
-    "bf.message.gameplay": "Gameplay | 109.0 EN-US",
+    "bf.message.gameplay": "Gameplay | 110.0 EN-US",
 
     "#credits": "Credits",
     "bf.screen.credits.role.dev.geckolib": "GeckoLib Developer",
@@ -69,9 +69,7 @@
     "entity.bf.landmine": "Landmine",
     "entity.bf.medical_bag": "Medical Bag",
     "entity.bf.melon_rocket": "Melon Rocket",
-    "entity.bf.michael": "Michael",
     "entity.bf.monkey_bomb": "Monkey Bomb",
-    "entity.bf.obunga": "Obunga",
     "entity.bf.panzeriv_tank": "Panzer IV Tank",
     "entity.bf.panzerknacker": "Panzerknacker",
     "entity.bf.precision_airstrike_rocket": "Precision Strike Rocket",
@@ -80,6 +78,7 @@
     "entity.bf.rocket": "Rocket",
     "entity.bf.satchel": "Satchel",
     "entity.bf.sherman_tank": "Sherman Tank",
+    "entity.bf.signal_smoke_grenade": "Signal Smoke",
     "entity.bf.t34_tank": "T34 Tank",
     "entity.bf.tank_rocket": "Tank Rocket",
     "entity.bf.tiger_ausf_h_tank": "Tiger Ausf.H Tank",
