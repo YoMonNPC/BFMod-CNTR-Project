@@ -1,6 +1,6 @@
 {
     "#watermark": "Watermark",
-    "bf.message.gameplay": "Gameplay | 111.0 EN-US",
+    "bf.message.gameplay": "Gameplay | 112.0 EN-US",
 
     "#credits": "Credits",
     "bf.screen.credits.role.dev.geckolib": "GeckoLib Developer",
@@ -26,7 +26,6 @@
     "bf.message.profile.base.discord.unlink.tip": "Unlink your Discord account!",
     "bf.message.profile.details.headshots": "Head-shots: %s",
     "bf.message.prompt.refer.player.title": "Refer a Player",
-    "bf.message.punishment.type.comp.cooldown": "Competitive Cooldown",
     "bf.message.tutorial.armory.2": "You can manage your armory items in various ways, such as deleting, equipping, etc.",
     "bf.message.tutorial.armory.3": "You can filter between item types by using the buttons provided on the right-hand side of the armory.",
     "bf.message.tutorial.classes.5": "You can switch between class levels by right-clicking the class.",
