@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "117.0 ZH-HK",
+    "bf.message.gameplay": "118.0 ZH-HK",
 
     "#ui": "用户界面",
     "bf.challenge.capture": "佔領 1 個據點",
@@ -259,6 +259,7 @@
     "bf.cloud.party.search.cancelled.ban": "隊伍中有玩家存在生效中的處罰",
     "bf.cloud.party.search.cancelled.disabled": "該遊戲模式當前不可用",
     "bf.cloud.party.search.cancelled.expired": "規定時間內未發現對局",
+    "bf.cloud.party.search.cancelled.failed": "無法加入該對局，請再次搜尋",
     "bf.cloud.party.search.cancelled.found": "發現對局",
     "bf.cloud.party.search.cancelled.host": "隊長主動取消",
     "bf.cloud.party.search.cancelled.missed": "有玩家錯過的對局過多",
