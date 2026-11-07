@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "120.0 ZH-HK",
+    "bf.message.gameplay": "121.0 ZH-HK",
 
     "#ui": "用户界面",
     "bf.challenge.capture": "佔領 1 個據點",
@@ -633,6 +633,7 @@
     "bf.key.notification.quick.action": "通知快捷操作（按住）",
     "bf.key.vehicle.horn": "鳴笛",
     "bf.key.voice.talk": "按住講話",
+    "bf.key.voice.talk1": "按住講話",
     "bf.key.voice.team": "隊伍無線電",
     "bf.key.weapon.last": "上一把武器",
     "bf.killmessage.by": "擊殺者：%s",
