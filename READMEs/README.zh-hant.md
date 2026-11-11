@@ -18,8 +18,8 @@
 
 ## ⭐ 專案功能
 
-- 為 BlockFront 添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。
-- 為 BlockFront 添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。
+- 為 BlockFront 及官方戰役包添加了帶自訂字型（[漢儀力量黑簡][hyliliangheij]）的簡體中文（中國大陸）翻譯。
+- 為 BlockFront 及官方戰役包添加了帶自訂字型（[MStiffHei HK][mstiffhei-hk]）的繁體中文（台灣 / 香港特別行政區）翻譯。
 - 為 Sodium 添加了中文翻譯。
 - 修正了原文中的部分拼寫、語法。
 - 格式化了遊戲內的中文。
@@ -31,8 +31,8 @@
 
 ## 🛠️ 使用方法
 
-1. 下載資源包。
-2. 將資源包放入遊戲資源包資料夾（resourcepacks）。
+1. 下載資源包；
+2. 將資源包放入遊戲資源包資料夾（resourcepacks）；
 3. 在遊戲中啟用資源包，並確保資源包處於「模組資源」（Mod Resources）上方。
 
 <br>
@@ -41,21 +41,18 @@
 
 | | |
 | :- | :- |
-| 🧑‍💻 模組作者 | BeohMod |
+| 🧑‍💻 模組開發者 | BeohMod |
 | 🌐 官方網站 | [www.BlockFrontMC.com][official-website] |
 | 💬 官方 Discord| [Discord.BlockFrontMC.com][official-discord] |
-| 📄 官方規則 | [原文（英語）][official-rules]\| [本專案 Wiki（中文翻譯）][project-wiki] |
-| 📄 模組釋出頁 | Modrinth：[模組][mod-modrinth] \| [整合包][modpack-modrinth]<br>CurseForge：[模組][mod-curseforge] |
-| 🌐 自訂比賽教學 | [原文（英語）][matchmaking-guide]\| [本專案 Wiki（中文翻譯）][project-wiki] |
+| 📄 官方文件 | [Docs.BlockFrontMC.com][official-docs] |
+| 📄 模組釋出頁 | Modrinth：[模組][mod-modrinth] \| [模組包][modpack-modrinth]<br>CurseForge：[模組][mod-curseforge] |
 
 [official-website]: https://www.blockfrontmc.com
 [official-discord]: https://discord.blockfrontmc.com
-[official-rules]: https://www.blockfrontmc.com/rules
-[project-wiki]: https://github.com/YoMonNPC/BFMod-CNTR-Project/wiki
+[official-docs]: https://docs.blockfrontmc.com
 [mod-modrinth]: https://modrinth.com/mod/blockfront
 [modpack-modrinth]: https://modrinth.com/modpack/blockfront-mod-pack
 [mod-curseforge]: https://www.curseforge.com/minecraft/mc-mods/blockfront-world-war-ii
-[matchmaking-guide]: https://blockfront.wiki.gg/wiki/Map_creation
 
 ## 🤝 開源許可協議
 
