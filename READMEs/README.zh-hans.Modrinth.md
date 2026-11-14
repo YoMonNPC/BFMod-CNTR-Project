@@ -47,9 +47,9 @@
 | | |
 | :- | :- |
 | 🧑‍💻 模组开发者 | BeohMod |
-| 🌐 官方网站 | [www.BlockFrontMC.com][official-website] |
-| 💬 官方 Discord| [Discord.BlockFrontMC.com][official-discord] |
-| 📄 官方文档 | [Docs.BlockFrontMC.com][official-docs] |
+| 🌐 官方网站 | [www.blockfrontmc.com][official-website] |
+| 💬 官方 Discord| [discord.blockfrontmc.com][official-discord] |
+| 📄 官方文档 | [docs.blockfrontmc.com][official-docs] |
 | 📄 模组发布页 | Modrinth：[模组][mod-modrinth] \| [整合包][modpack-modrinth]<br>CurseForge：[模组][mod-curseforge] |
 
 [official-website]: https://www.blockfrontmc.com
