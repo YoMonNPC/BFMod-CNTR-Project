@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "127.0 ZH-TW",
+    "bf.message.gameplay": "128.0 ZH-TW",
 
     "#ui": "使用者介面",
     "bf.challenge.capture": "佔領 1 個據點",
@@ -4956,6 +4956,7 @@
     "block.bf.rod_3": "鐵棒",
     "block.bf.rod_4": "鐵棒",
     "block.bf.rod_5": "鐵棒",
+    "block.bf.rope": "繩索",
     "block.bf.rubble_bricks_0": "磚塊瓦礫",
     "block.bf.rubble_bricks_1": "磚塊瓦礫",
     "block.bf.rubble_bricks_2": "磚塊瓦礫",
