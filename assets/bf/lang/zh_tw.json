@@ -3,7 +3,7 @@
     "bf.message.alpha": "Alpha 版",
     "bf.message.beta": "Beta 版",
     "bf.message.release": "正式版",
-    "bf.message.gameplay": "131.0 ZH-TW",
+    "bf.message.gameplay": "132.0 ZH-TW",
 
     "#ui": "使用者介面",
     "bf.challenge.capture": "佔領 1 個據點",
@@ -5929,6 +5929,7 @@
     "item.bf.gun_colt": "M1911 半自動手槍",
     "item.bf.gun_de_lisle_carbine": "德利爾栓動式卡賓槍",
     "item.bf.gun_dp28": "DP-28 機槍",
+    "item.bf.gun_dubeltowka": "雙管霰彈槍",
     "item.bf.gun_fb_vis": "ViS wz. 35 半自動手槍",
     "item.bf.gun_fg42": "FG-42 全自動步槍",
     "item.bf.gun_fiat_revelli": "飛雅特 M35 機槍",
